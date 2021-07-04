@@ -1,9 +1,9 @@
-package com.config;
+package com.Base;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class  BrowserConfig {
+public class TestBase {
     public static WebDriver driver;
 
     /**
@@ -23,10 +23,10 @@ public class  BrowserConfig {
 
         driver = new ChromeDriver();
         driver.manage().window().maximize();
-       // driver.get("https://google.com");
+        // driver.get("https://google.com");
         driver.get("file:///C:/Users/Wife/Documents/BITM SQA Training Materials/Your Store.html");
 
-System.out.println("Launch Chrome Browser");
+        System.out.println("Launch Chrome Browser");
 
     }
     public static void chromeClose(){
