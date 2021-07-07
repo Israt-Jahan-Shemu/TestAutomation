@@ -14,10 +14,11 @@ import org.openqa.selenium.WebElement;
 public class Login extends TestBase {
     public  static void main(String args []){
         chromeLaunch();
-        tc_001_valid();
-       tc_002_invalid();
+        loginForValidData();
+        loginForInvalidData();
+
     }
-public static void tc_001_valid(){
+public static void loginForValidData(){
         //step 1
         driver.get("https://demo.opencart.com/index.php?route=account/login");
         //step 2;
@@ -30,11 +31,24 @@ public static void tc_001_valid(){
     WebElement LoginBtn= driver.findElement(By.xpath("//*[@id=\"content\"]/div/div[2]/div/form/input"));
 
 LoginBtn.click();
-WebElement logout=driver.findElement(By.linkText("Logout"));
-logout.click();
+//login pass for valid data
+
+
+    String ExpectedResult="My Account";
+    String ActualResult=driver.getTitle();
+    if(ActualResult.equals(ExpectedResult)){
+        System.out.println("Test passed for valid data");
+
+    }
+    else {
+        System.out.println("Test failed for valid data.Bug found");
+
+    }
+    WebElement logout=driver.findElement(By.linkText("Logout"));
+    logout.click();
 
 }
-    public static void tc_002_invalid(){
+    public static void loginForInvalidData(){
         //step 1
         driver.get("https://demo.opencart.com/index.php?route=account/login");
         //step 2;
@@ -47,6 +61,17 @@ logout.click();
         WebElement LoginBtn= driver.findElement(By.xpath("//*[@id=\"content\"]/div/div[2]/div/form/input"));
 
         LoginBtn.click();
+        String ExpectedResult="My Account";
+        String ActualResult=driver.getTitle();
+        if(!ActualResult.equals(ExpectedResult)){
+            System.out.println("Test passed for invalid data");
+
+        }
+        else {
+            System.out.println("Test failed for invalid data");
+            WebElement logout=driver.findElement(By.linkText("Logout"));
+            logout.click();
+        }
 
 
     }

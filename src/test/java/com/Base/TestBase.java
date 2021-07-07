@@ -33,4 +33,7 @@ public class TestBase {
         driver.close();
         System.out.println("Close Chrome Browser");
     }
+    public static void openTestURL(String URL){
+        driver.get("URL");
+    }
 }
