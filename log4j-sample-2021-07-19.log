@@ -1,0 +1,13 @@
+[INFO ] 2021-07-19 15:31:27.710 [main] LogInstance - Open Login URL
+[INFO ] 2021-07-19 15:31:27.868 [main] LogInstance - Type Email
+[INFO ] 2021-07-19 15:31:27.986 [main] LogInstance - Type Password
+[INFO ] 2021-07-19 15:31:30.129 [main] LogInstance - Click on Login Button
+[INFO ] 2021-07-19 15:31:30.139 [main] LogInstance - Test Passed for Valid Data
+[INFO ] 2021-07-19 15:31:32.162 [main] LogInstance - logout
+[INFO ] 2021-07-19 15:34:04.599 [main] LoginLog4j - Open Login URL
+[INFO ] 2021-07-19 15:34:04.604 [main] LogInstance - Open Login URL
+[INFO ] 2021-07-19 15:34:04.717 [main] LogInstance - Type Email
+[INFO ] 2021-07-19 15:34:04.802 [main] LogInstance - Type Password
+[INFO ] 2021-07-19 15:34:06.989 [main] LogInstance - Click on Login Button
+[INFO ] 2021-07-19 15:34:06.998 [main] LogInstance - Test Passed for Valid Data
+[INFO ] 2021-07-19 15:34:09.127 [main] LogInstance - logout

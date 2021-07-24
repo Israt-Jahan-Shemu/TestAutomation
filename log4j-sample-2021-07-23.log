@@ -1,0 +1,106 @@
+[INFO ] 2021-07-23 09:59:56.106 [main] LogInstance - Chrome Launch  Browser
+[INFO ] 2021-07-23 09:59:58.234 [main] LogInstance - Login Page Open Successfully
+[INFO ] 2021-07-23 09:59:59.327 [main] LogInstance - Open Login URL
+[INFO ] 2021-07-23 09:59:59.496 [main] LogInstance - Type Email
+[INFO ] 2021-07-23 09:59:59.659 [main] LogInstance - Type Password
+[INFO ] 2021-07-23 10:00:02.157 [main] LogInstance - Click on Login Button
+[INFO ] 2021-07-23 10:00:04.219 [main] LogInstance - logout
+[INFO ] 2021-07-23 10:00:04.310 [main] LogInstance -  Chrome Close Browser
+[INFO ] 2021-07-23 10:00:06.420 [main] LogInstance - Chrome Launch  Browser
+[INFO ] 2021-07-23 10:00:10.341 [main] LogInstance - Login Page Open Successfully
+[INFO ] 2021-07-23 10:00:10.346 [main] LogInstance - Open Login URL
+[INFO ] 2021-07-23 10:00:10.516 [main] LogInstance - Type Email
+[INFO ] 2021-07-23 10:00:10.647 [main] LogInstance - Type Password
+[INFO ] 2021-07-23 10:00:11.991 [main] LogInstance - Click on Login Button
+[INFO ] 2021-07-23 10:00:12.076 [main] LogInstance -  Chrome Close Browser
+[INFO ] 2021-07-23 10:00:14.108 [main] LogInstance - Chrome Launch  Browser
+[INFO ] 2021-07-23 10:00:15.894 [main] LogInstance - Login Page Open Successfully
+[INFO ] 2021-07-23 10:00:17.013 [main] LogInstance - Open Login URL
+[INFO ] 2021-07-23 10:00:17.179 [main] LogInstance - Type Email
+[INFO ] 2021-07-23 10:00:17.313 [main] LogInstance - Type Password
+[INFO ] 2021-07-23 10:00:19.473 [main] LogInstance - Click on Login Button
+[INFO ] 2021-07-23 10:00:21.505 [main] LogInstance - logout
+[INFO ] 2021-07-23 10:00:21.570 [main] LogInstance -  Chrome Close Browser
+[INFO ] 2021-07-23 10:00:23.689 [main] LogInstance - Chrome Launch  Browser
+[INFO ] 2021-07-23 10:00:25.612 [main] LogInstance - Login Page Open Successfully
+[INFO ] 2021-07-23 10:00:25.612 [main] LogInstance - Open Login URL
+[INFO ] 2021-07-23 10:00:25.839 [main] LogInstance - Type Email
+[INFO ] 2021-07-23 10:00:25.963 [main] LogInstance - Type Password
+[INFO ] 2021-07-23 10:00:27.372 [main] LogInstance - Click on Login Button
+[INFO ] 2021-07-23 10:00:27.472 [main] LogInstance -  Chrome Close Browser
+[INFO ] 2021-07-23 12:53:41.788 [main] LogInstance - Chrome Launch  Browser
+[INFO ] 2021-07-23 12:53:46.108 [main] LogInstance - Login Page Open Successfully
+[INFO ] 2021-07-23 12:53:47.331 [main] LogInstance - Open Login URL
+[INFO ] 2021-07-23 12:53:47.448 [main] LogInstance - Type Email
+[INFO ] 2021-07-23 12:53:47.527 [main] LogInstance - Type Password
+[INFO ] 2021-07-23 12:53:49.709 [main] LogInstance - Click on Login Button
+[INFO ] 2021-07-23 12:53:51.741 [main] LogInstance - logout
+[INFO ] 2021-07-23 12:53:51.815 [main] LogInstance -  Chrome Close Browser
+[INFO ] 2021-07-23 12:53:53.848 [main] LogInstance - Chrome Launch  Browser
+[INFO ] 2021-07-23 12:53:55.678 [main] LogInstance - Login Page Open Successfully
+[INFO ] 2021-07-23 12:53:55.679 [main] LogInstance - Open Login URL
+[INFO ] 2021-07-23 12:53:55.820 [main] LogInstance - Type Email
+[INFO ] 2021-07-23 12:53:55.925 [main] LogInstance - Type Password
+[INFO ] 2021-07-23 12:53:57.588 [main] LogInstance - Click on Login Button
+[INFO ] 2021-07-23 12:53:57.692 [main] LogInstance -  Chrome Close Browser
+[INFO ] 2021-07-23 12:53:59.576 [main] LogInstance - Chrome Launch  Browser
+[INFO ] 2021-07-23 12:54:01.453 [main] LogInstance - Login Page Open Successfully
+[INFO ] 2021-07-23 12:54:02.693 [main] LogInstance - Open Login URL
+[INFO ] 2021-07-23 12:54:02.820 [main] LogInstance - Type Email
+[INFO ] 2021-07-23 12:54:02.961 [main] LogInstance - Type Password
+[INFO ] 2021-07-23 12:54:05.559 [main] LogInstance - Click on Login Button
+[INFO ] 2021-07-23 12:54:07.592 [main] LogInstance - logout
+[INFO ] 2021-07-23 12:54:07.642 [main] LogInstance -  Chrome Close Browser
+[INFO ] 2021-07-23 12:54:09.570 [main] LogInstance - Chrome Launch  Browser
+[INFO ] 2021-07-23 12:54:11.409 [main] LogInstance - Login Page Open Successfully
+[INFO ] 2021-07-23 12:54:11.410 [main] LogInstance - Open Login URL
+[INFO ] 2021-07-23 12:54:11.544 [main] LogInstance - Type Email
+[INFO ] 2021-07-23 12:54:11.671 [main] LogInstance - Type Password
+[INFO ] 2021-07-23 12:54:13.000 [main] LogInstance - Click on Login Button
+[INFO ] 2021-07-23 12:54:13.162 [main] LogInstance -  Chrome Close Browser
+[INFO ] 2021-07-23 12:55:21.484 [main] LogInstance - Chrome Launch  Browser
+[INFO ] 2021-07-23 12:55:23.105 [main] LogInstance - Login Page Open Successfully
+[INFO ] 2021-07-23 12:55:24.199 [main] LogInstance - Open Login URL
+[INFO ] 2021-07-23 12:55:24.343 [main] LogInstance - Type Email
+[INFO ] 2021-07-23 12:55:24.441 [main] LogInstance - Type Password
+[INFO ] 2021-07-23 12:55:26.703 [main] LogInstance - Click on Login Button
+[INFO ] 2021-07-23 12:55:28.786 [main] LogInstance - logout
+[INFO ] 2021-07-23 12:55:28.844 [main] LogInstance -  Chrome Close Browser
+[INFO ] 2021-07-23 12:55:30.767 [main] LogInstance - Chrome Launch  Browser
+[INFO ] 2021-07-23 12:55:32.560 [main] LogInstance - Login Page Open Successfully
+[INFO ] 2021-07-23 12:55:32.560 [main] LogInstance - Open Login URL
+[INFO ] 2021-07-23 12:55:32.683 [main] LogInstance - Type Email
+[INFO ] 2021-07-23 12:55:32.795 [main] LogInstance - Type Password
+[INFO ] 2021-07-23 12:55:34.174 [main] LogInstance - Click on Login Button
+[INFO ] 2021-07-23 12:55:34.249 [main] LogInstance -  Chrome Close Browser
+[INFO ] 2021-07-23 12:55:36.186 [main] LogInstance - Chrome Launch  Browser
+[INFO ] 2021-07-23 12:55:37.811 [main] LogInstance - Login Page Open Successfully
+[INFO ] 2021-07-23 12:55:39.005 [main] LogInstance - Open Login URL
+[INFO ] 2021-07-23 12:55:39.124 [main] LogInstance - Type Email
+[INFO ] 2021-07-23 12:55:39.239 [main] LogInstance - Type Password
+[INFO ] 2021-07-23 12:55:41.448 [main] LogInstance - Click on Login Button
+[INFO ] 2021-07-23 12:55:43.545 [main] LogInstance - logout
+[INFO ] 2021-07-23 12:55:43.601 [main] LogInstance -  Chrome Close Browser
+[INFO ] 2021-07-23 12:55:45.505 [main] LogInstance - Chrome Launch  Browser
+[INFO ] 2021-07-23 12:55:47.188 [main] LogInstance - Login Page Open Successfully
+[INFO ] 2021-07-23 12:55:47.189 [main] LogInstance - Open Login URL
+[INFO ] 2021-07-23 12:55:47.322 [main] LogInstance - Type Email
+[INFO ] 2021-07-23 12:55:47.432 [main] LogInstance - Type Password
+[INFO ] 2021-07-23 12:55:48.998 [main] LogInstance - Click on Login Button
+[INFO ] 2021-07-23 12:55:49.075 [main] LogInstance -  Chrome Close Browser
+[INFO ] 2021-07-23 17:11:03.804 [main] LogInstance - Chrome Launch  Browser
+[INFO ] 2021-07-23 17:11:05.629 [main] LogInstance - Login Page Open Successfully
+[INFO ] 2021-07-23 17:11:06.712 [main] LogInstance - Open Login URL
+[INFO ] 2021-07-23 17:11:06.842 [main] LogInstance - Type Email
+[INFO ] 2021-07-23 17:11:06.953 [main] LogInstance - Type Password
+[INFO ] 2021-07-23 17:11:09.107 [main] LogInstance - Click on Login Button
+[INFO ] 2021-07-23 17:11:11.177 [main] LogInstance - logout
+[INFO ] 2021-07-23 17:11:11.253 [main] LogInstance -  Chrome Close Browser
+[INFO ] 2021-07-23 17:14:51.306 [main] LogInstance - Chrome Launch  Browser
+[INFO ] 2021-07-23 17:14:53.128 [main] LogInstance - Login Page Open Successfully
+[INFO ] 2021-07-23 17:14:54.224 [main] LogInstance - Open Login URL
+[INFO ] 2021-07-23 17:14:54.350 [main] LogInstance - Type Email
+[INFO ] 2021-07-23 17:14:54.463 [main] LogInstance - Type Password
+[INFO ] 2021-07-23 17:14:56.703 [main] LogInstance - Click on Login Button
+[INFO ] 2021-07-23 17:14:58.699 [main] LogInstance - logout
+[INFO ] 2021-07-23 17:14:58.762 [main] LogInstance -  Chrome Close Browser

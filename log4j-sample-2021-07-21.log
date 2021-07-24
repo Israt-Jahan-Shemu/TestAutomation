@@ -1,0 +1,4 @@
+[INFO ] 2021-07-21 23:35:59.991 [main] LogInstance - Chrome Launch  Browser
+[INFO ] 2021-07-21 23:36:01.842 [main] LogInstance - Login Page Open Successfully
+[INFO ] 2021-07-21 23:36:02.954 [main] LogInstance - Open Login URL
+[INFO ] 2021-07-21 23:36:05.079 [main] LogInstance -  Chrome Close Browser
