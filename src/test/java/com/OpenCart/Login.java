@@ -4,6 +4,8 @@ import com.Base.TestBase;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
+import java.io.IOException;
+
 /*
 1)got to login page
 2)type email
@@ -12,10 +14,10 @@ import org.openqa.selenium.WebElement;
 */
 
 public class Login extends TestBase {
-    public  static void main(String args []){
+    public  static void main(String args []) throws IOException {
         chromeLaunch();
-        loginForValidData();
-        loginForInvalidData();
+       loginForValidData();
+       // loginForInvalidData();
 
     }
 public static void loginForValidData(){
@@ -48,7 +50,7 @@ LoginBtn.click();
     logout.click();
 
 }
-    public static void loginForInvalidData(){
+    public static void loginForInvalidData() throws IOException {
         //step 1
         driver.get("https://demo.opencart.com/index.php?route=account/login");
         //step 2;
@@ -65,7 +67,7 @@ LoginBtn.click();
         String ActualResult=driver.getTitle();
         if(!ActualResult.equals(ExpectedResult)){
             System.out.println("Test passed for invalid data");
-
+            captureScreenShot("loginforinvalid",".phg");
         }
         else {
             System.out.println("Test failed for invalid data");

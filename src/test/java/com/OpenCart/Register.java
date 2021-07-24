@@ -9,6 +9,7 @@ public class Register extends TestBase {
     public static void main(String args[]){
         chromeLaunch();
         FirstNameInputField();
+       // TC_001_Registration_Valid();
        // chromeClose();
 
     }
@@ -31,7 +32,7 @@ public class Register extends TestBase {
 
         //step 5
         WebElement Telephone = driver.findElement(By.id("input-telephone"));
-        Telephone.sendKeys("01575022722");
+        Telephone.sendKeys("01212120227");
 
         //step 6
         WebElement Password = driver.findElement(By.id("input-password"));
